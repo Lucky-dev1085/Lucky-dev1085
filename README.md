@@ -2,9 +2,9 @@ I am a mobile and web application designer, developer based in Toronto, with a B
 
 What tools are in my portfolio?
 
-  • PHP, Nodejs(express), Python / Django(Django rest framework) Laravel, Shopify, Wordpress
+  • PHP, Nodejs(express), Python / Django(Django rest framework) Laravel
   
-  • Angular(2-7), React.JS/Redux, Vue.JS, HTML5,CSS3, Jquery
+  • Angular(2-13), React.JS/Redux, Vue.JS, HTML5,CSS3, Jquery
   
   • PostgreSQL, MySQL, Mongo, SQLite,Firebase
   
